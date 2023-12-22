@@ -1,2 +1,5 @@
 # Blitz-Tic-Tac-Toe
-Just A Tic TAc Toe Console Game
+
+▂▃▅▇█▓▒░ BLITZ TIC TAC TOE ░▒▓█▇▅▃▂
+Just A Tic TAc Toe Console Game in C++
+
